@@ -18,9 +18,11 @@ public class LoginTest extends Base {
     @AfterMethod
     public void tearDown(ITestResult result) {
         if (result.getStatus() == ITestResult.FAILURE) {
-            captureScreenshot("LoginTest_" + result.getName() + "_FAIL");
+            String screenshotPath = captureScreenshot("LoginTest_" + result.getName() + "_FAIL");
+            result.setAttribute("screenshotPath", screenshotPath);
         } else if (result.getStatus() == ITestResult.SUCCESS) {
-            captureScreenshot("LoginTest_" + result.getName() + "_PASS");
+            String screenshotPath = captureScreenshot("LoginTest_" + result.getName() + "_PASS");
+            result.setAttribute("screenshotPath", screenshotPath);
         }
 
         if (driver != null) {

@@ -30,9 +30,11 @@ public class ECommerceOrderValidationTest extends Base {
     @AfterMethod
     public void tearDown(ITestResult result) {
         if (result.getStatus() == ITestResult.FAILURE) {
-            captureScreenshot("ECommerceOrderValidationTest_" + result.getName() + "_FAIL");
+            String screenshotPath = captureScreenshot("ECommerceOrderValidationTest_" + result.getName() + "_FAIL");
+            result.setAttribute("screenshotPath", screenshotPath);
         } else if (result.getStatus() == ITestResult.SUCCESS) {
-            captureScreenshot("ECommerceOrderValidationTest_" + result.getName() + "_PASS");
+            String screenshotPath = captureScreenshot("ECommerceOrderValidationTest_" + result.getName() + "_PASS");
+            result.setAttribute("screenshotPath", screenshotPath);
         }
 
         if (driver != null) {
