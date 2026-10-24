@@ -329,3 +329,383 @@
 2026-10-24 19:20:39 INFO  Base:93 - Clicking element: [[ChromeDriver: chrome on windows (2f6ee0851a5cd91489c28f9fc97b30f3)] -> id: continue]
 2026-10-24 19:20:39 INFO  CheckoutPage:56 - Completing the order
 2026-10-24 19:20:39 INFO  Base:93 - Clicking element: [[ChromeDriver: chrome on windows (2f6ee0851a5cd91489c28f9fc97b30f3)] -> id: finish]
+2026-10-24 19:27:37 INFO  Base:24 - Loading configuration from config.properties
+2026-10-24 19:27:37 INFO  Base:30 - Configuration loaded successfully
+2026-10-24 19:27:37 INFO  Base:39 - Initializing browser: chrome
+2026-10-24 19:27:40 INFO  Base:57 - ChromeDriver created successfully
+2026-10-24 19:27:40 INFO  Base:71 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:27:41 INFO  Base:24 - Loading configuration from config.properties
+2026-10-24 19:27:41 INFO  Base:30 - Configuration loaded successfully
+2026-10-24 19:27:41 INFO  Base:39 - Initializing browser: chrome
+2026-10-24 19:27:42 INFO  Base:57 - ChromeDriver created successfully
+2026-10-24 19:27:42 INFO  Base:71 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:29:22 INFO  Base:27 - Loading configuration from config.properties
+2026-10-24 19:29:22 INFO  Base:33 - Configuration loaded successfully
+2026-10-24 19:29:22 INFO  Base:42 - Initializing browser: chrome
+2026-10-24 19:29:23 INFO  Base:60 - ChromeDriver created successfully
+2026-10-24 19:29:23 INFO  Base:74 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:29:24 INFO  Base:27 - Loading configuration from config.properties
+2026-10-24 19:29:24 INFO  Base:33 - Configuration loaded successfully
+2026-10-24 19:29:24 INFO  Base:42 - Initializing browser: chrome
+2026-10-24 19:29:24 INFO  Base:60 - ChromeDriver created successfully
+2026-10-24 19:29:26 INFO  Base:74 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:31:13 INFO  Base:27 - Loading configuration from config.properties
+2026-10-24 19:31:13 INFO  Base:33 - Configuration loaded successfully
+2026-10-24 19:31:13 INFO  Base:42 - Initializing browser: chrome
+2026-10-24 19:31:14 INFO  Base:60 - ChromeDriver created successfully
+2026-10-24 19:31:15 INFO  Base:74 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:31:15 INFO  login:28 - Attempting login with configured user credentials
+2026-10-24 19:31:15 INFO  login:32 - Login button clicked successfully
+2026-10-24 19:31:15 INFO  Base:27 - Loading configuration from config.properties
+2026-10-24 19:31:15 INFO  Base:33 - Configuration loaded successfully
+2026-10-24 19:31:15 INFO  Base:42 - Initializing browser: chrome
+2026-10-24 19:31:16 INFO  Base:60 - ChromeDriver created successfully
+2026-10-24 19:31:16 INFO  Base:74 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:31:16 INFO  login:28 - Attempting login with configured user credentials
+2026-10-24 19:31:17 INFO  login:32 - Login button clicked successfully
+2026-10-24 19:31:17 INFO  Product:49 - Fetching all products and their prices from inventory page
+2026-10-24 19:32:43 INFO  Base:27 - Loading configuration from config.properties
+2026-10-24 19:32:43 INFO  Base:33 - Configuration loaded successfully
+2026-10-24 19:32:43 INFO  Base:42 - Initializing browser: chrome
+2026-10-24 19:32:44 INFO  Base:60 - ChromeDriver created successfully
+2026-10-24 19:32:45 INFO  Base:74 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:32:45 INFO  login:28 - Attempting login with configured user credentials
+2026-10-24 19:32:45 INFO  login:32 - Login button clicked successfully
+2026-10-24 19:32:46 INFO  Base:27 - Loading configuration from config.properties
+2026-10-24 19:32:46 INFO  Base:33 - Configuration loaded successfully
+2026-10-24 19:32:46 INFO  Base:42 - Initializing browser: chrome
+2026-10-24 19:32:46 INFO  Base:60 - ChromeDriver created successfully
+2026-10-24 19:32:47 INFO  Base:74 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:32:47 INFO  login:28 - Attempting login with configured user credentials
+2026-10-24 19:32:47 INFO  login:32 - Login button clicked successfully
+2026-10-24 19:32:47 INFO  Product:49 - Fetching all products and their prices from inventory page
+2026-10-24 19:34:21 INFO  Base:27 - Loading configuration from config.properties
+2026-10-24 19:34:21 INFO  Base:33 - Configuration loaded successfully
+2026-10-24 19:34:21 INFO  Base:42 - Initializing browser: chrome
+2026-10-24 19:34:22 INFO  Base:60 - ChromeDriver created successfully
+2026-10-24 19:34:23 INFO  Base:74 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:34:23 INFO  login:28 - Attempting login with configured user credentials
+2026-10-24 19:34:23 INFO  login:32 - Login button clicked successfully
+2026-10-24 19:34:24 INFO  Base:27 - Loading configuration from config.properties
+2026-10-24 19:34:24 INFO  Base:33 - Configuration loaded successfully
+2026-10-24 19:34:24 INFO  Base:42 - Initializing browser: chrome
+2026-10-24 19:34:24 INFO  Base:60 - ChromeDriver created successfully
+2026-10-24 19:34:25 INFO  Base:74 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:34:25 INFO  login:28 - Attempting login with configured user credentials
+2026-10-24 19:34:25 INFO  login:32 - Login button clicked successfully
+2026-10-24 19:34:25 INFO  Product:49 - Fetching all products and their prices from inventory page
+2026-10-24 19:38:01 INFO  Base:24 - Loading configuration from config.properties
+2026-10-24 19:38:01 INFO  Base:30 - Configuration loaded successfully
+2026-10-24 19:38:01 INFO  Base:39 - Initializing browser: chrome
+2026-10-24 19:38:03 INFO  Base:57 - ChromeDriver created successfully
+2026-10-24 19:38:03 INFO  Base:71 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:38:03 INFO  login:35 - Attempting login with configured user credentials
+2026-10-24 19:38:03 INFO  login:43 - Login button clicked successfully
+2026-10-24 19:38:04 INFO  Base:24 - Loading configuration from config.properties
+2026-10-24 19:38:04 INFO  Base:30 - Configuration loaded successfully
+2026-10-24 19:38:04 INFO  Base:39 - Initializing browser: chrome
+2026-10-24 19:38:04 INFO  Base:57 - ChromeDriver created successfully
+2026-10-24 19:38:05 INFO  Base:71 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:38:05 INFO  login:35 - Attempting login with configured user credentials
+2026-10-24 19:38:05 INFO  login:43 - Login button clicked successfully
+2026-10-24 19:38:05 INFO  Product:49 - Fetching all products and their prices from inventory page
+2026-10-24 19:38:05 INFO  Product:62 - Product found: Sauce Labs Backpack - $29.99
+2026-10-24 19:38:05 INFO  Product:62 - Product found: Sauce Labs Bike Light - $9.99
+2026-10-24 19:38:05 INFO  Product:62 - Product found: Sauce Labs Bolt T-Shirt - $15.99
+2026-10-24 19:38:05 INFO  Product:62 - Product found: Sauce Labs Fleece Jacket - $49.99
+2026-10-24 19:38:05 INFO  Product:62 - Product found: Sauce Labs Onesie - $7.99
+2026-10-24 19:38:05 INFO  Product:62 - Product found: Test.allTheThings() T-Shirt (Red) - $15.99
+2026-10-24 19:38:05 INFO  Base:61 - Highest priced product: Sauce Labs Fleece Jacket - $49.99
+2026-10-24 19:38:05 INFO  Base:62 - Lowest priced product: Sauce Labs Onesie - $7.99
+2026-10-24 19:38:05 INFO  Product:69 - Selecting highest price product
+2026-10-24 19:38:05 INFO  Product:91 - Finding product with highest price
+2026-10-24 19:38:06 INFO  Product:100 - Selected product: Sauce Labs Fleece Jacket
+2026-10-24 19:38:06 INFO  Product:81 - Adding selected product to cart. Cart count before: 0
+2026-10-24 19:38:06 INFO  Base:93 - Clicking element: [[[[ChromeDriver: chrome on windows (51c3da1206b38ca3f9d23a7d7d85c905)] -> css selector: .inventory_item]] -> css selector: button[data-test^='add-to-cart']]
+2026-10-24 19:38:06 INFO  Base:83 - Current cart count: 1
+2026-10-24 19:38:06 INFO  Base:83 - Current cart count: 1
+2026-10-24 19:38:06 INFO  Product:87 - Product added to cart successfully. Cart count after: 1
+2026-10-24 19:38:06 INFO  Product:74 - Selecting lowest price product
+2026-10-24 19:38:06 INFO  Product:91 - Finding product with lowest price
+2026-10-24 19:38:06 INFO  Product:100 - Selected product: Sauce Labs Onesie
+2026-10-24 19:38:06 INFO  Base:83 - Current cart count: 1
+2026-10-24 19:38:06 INFO  Product:81 - Adding selected product to cart. Cart count before: 1
+2026-10-24 19:38:06 INFO  Base:93 - Clicking element: [[[[ChromeDriver: chrome on windows (51c3da1206b38ca3f9d23a7d7d85c905)] -> css selector: .inventory_item]] -> css selector: button[data-test^='add-to-cart']]
+2026-10-24 19:38:06 INFO  Base:83 - Current cart count: 2
+2026-10-24 19:38:06 INFO  Base:83 - Current cart count: 2
+2026-10-24 19:38:06 INFO  Product:87 - Product added to cart successfully. Cart count after: 2
+2026-10-24 19:38:06 INFO  Product:106 - Cart badge text: 2
+2026-10-24 19:38:06 INFO  CartPage:32 - Opening cart page
+2026-10-24 19:38:06 INFO  Base:93 - Clicking element: [[ChromeDriver: chrome on windows (51c3da1206b38ca3f9d23a7d7d85c905)] -> css selector: .shopping_cart_link]
+2026-10-24 19:38:06 INFO  CartPage:39 - Checking cart item count
+2026-10-24 19:38:06 INFO  CartPage:49 - Cart item total derived from cart items: $57.980000000000004
+2026-10-24 19:38:06 INFO  CartPage:54 - Clicking checkout from cart
+2026-10-24 19:38:06 INFO  Base:93 - Clicking element: [[ChromeDriver: chrome on windows (51c3da1206b38ca3f9d23a7d7d85c905)] -> id: checkout]
+2026-10-24 19:38:07 INFO  CheckoutPage:40 - Entering checkout customer information
+2026-10-24 19:38:07 INFO  Base:93 - Clicking element: [[ChromeDriver: chrome on windows (51c3da1206b38ca3f9d23a7d7d85c905)] -> id: continue]
+2026-10-24 19:38:07 INFO  CheckoutPage:56 - Completing the order
+2026-10-24 19:38:07 INFO  Base:93 - Clicking element: [[ChromeDriver: chrome on windows (51c3da1206b38ca3f9d23a7d7d85c905)] -> id: finish]
+2026-10-24 19:39:25 INFO  Base:24 - Loading configuration from config.properties
+2026-10-24 19:39:25 INFO  Base:30 - Configuration loaded successfully
+2026-10-24 19:39:25 INFO  Base:39 - Initializing browser: chrome
+2026-10-24 19:39:28 INFO  Base:57 - ChromeDriver created successfully
+2026-10-24 19:39:28 INFO  Base:71 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:39:28 INFO  login:35 - Attempting login with configured user credentials
+2026-10-24 19:39:29 INFO  login:43 - Login button clicked successfully
+2026-10-24 19:39:29 INFO  Base:24 - Loading configuration from config.properties
+2026-10-24 19:39:29 INFO  Base:30 - Configuration loaded successfully
+2026-10-24 19:39:29 INFO  Base:39 - Initializing browser: chrome
+2026-10-24 19:39:30 INFO  Base:57 - ChromeDriver created successfully
+2026-10-24 19:39:31 INFO  Base:71 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:39:31 INFO  login:35 - Attempting login with configured user credentials
+2026-10-24 19:39:31 INFO  login:43 - Login button clicked successfully
+2026-10-24 19:39:31 INFO  Product:49 - Fetching all products and their prices from inventory page
+2026-10-24 19:39:32 INFO  Product:62 - Product found: Sauce Labs Backpack - $29.99
+2026-10-24 19:39:32 INFO  Product:62 - Product found: Sauce Labs Bike Light - $9.99
+2026-10-24 19:39:32 INFO  Product:62 - Product found: Sauce Labs Bolt T-Shirt - $15.99
+2026-10-24 19:39:32 INFO  Product:62 - Product found: Sauce Labs Fleece Jacket - $49.99
+2026-10-24 19:39:32 INFO  Product:62 - Product found: Sauce Labs Onesie - $7.99
+2026-10-24 19:39:32 INFO  Product:62 - Product found: Test.allTheThings() T-Shirt (Red) - $15.99
+2026-10-24 19:39:32 INFO  Base:61 - Highest priced product: Sauce Labs Fleece Jacket - $49.99
+2026-10-24 19:39:32 INFO  Base:62 - Lowest priced product: Sauce Labs Onesie - $7.99
+2026-10-24 19:39:32 INFO  Product:69 - Selecting highest price product
+2026-10-24 19:39:32 INFO  Product:91 - Finding product with highest price
+2026-10-24 19:39:33 INFO  Product:100 - Selected product: Sauce Labs Fleece Jacket
+2026-10-24 19:39:33 INFO  Product:81 - Adding selected product to cart. Cart count before: 0
+2026-10-24 19:39:33 INFO  Base:93 - Clicking element: [[[[ChromeDriver: chrome on windows (63dd81474b0d27770b96a659571add38)] -> css selector: .inventory_item]] -> css selector: button[data-test^='add-to-cart']]
+2026-10-24 19:39:33 INFO  Base:83 - Current cart count: 1
+2026-10-24 19:39:33 INFO  Base:83 - Current cart count: 1
+2026-10-24 19:39:33 INFO  Product:87 - Product added to cart successfully. Cart count after: 1
+2026-10-24 19:39:33 INFO  Product:74 - Selecting lowest price product
+2026-10-24 19:39:33 INFO  Product:91 - Finding product with lowest price
+2026-10-24 19:39:33 INFO  Product:100 - Selected product: Sauce Labs Onesie
+2026-10-24 19:39:33 INFO  Base:83 - Current cart count: 1
+2026-10-24 19:39:33 INFO  Product:81 - Adding selected product to cart. Cart count before: 1
+2026-10-24 19:39:33 INFO  Base:93 - Clicking element: [[[[ChromeDriver: chrome on windows (63dd81474b0d27770b96a659571add38)] -> css selector: .inventory_item]] -> css selector: button[data-test^='add-to-cart']]
+2026-10-24 19:39:33 INFO  Base:83 - Current cart count: 2
+2026-10-24 19:39:33 INFO  Base:83 - Current cart count: 2
+2026-10-24 19:39:33 INFO  Product:87 - Product added to cart successfully. Cart count after: 2
+2026-10-24 19:39:33 INFO  Product:106 - Cart badge text: 2
+2026-10-24 19:39:33 INFO  CartPage:32 - Opening cart page
+2026-10-24 19:39:33 INFO  Base:93 - Clicking element: [[ChromeDriver: chrome on windows (63dd81474b0d27770b96a659571add38)] -> css selector: .shopping_cart_link]
+2026-10-24 19:39:34 INFO  CartPage:39 - Checking cart item count
+2026-10-24 19:39:34 INFO  CartPage:49 - Cart item total derived from cart items: $57.980000000000004
+2026-10-24 19:39:34 INFO  CartPage:54 - Clicking checkout from cart
+2026-10-24 19:39:34 INFO  Base:93 - Clicking element: [[ChromeDriver: chrome on windows (63dd81474b0d27770b96a659571add38)] -> id: checkout]
+2026-10-24 19:39:34 INFO  CheckoutPage:40 - Entering checkout customer information
+2026-10-24 19:39:34 INFO  Base:93 - Clicking element: [[ChromeDriver: chrome on windows (63dd81474b0d27770b96a659571add38)] -> id: continue]
+2026-10-24 19:39:34 INFO  CheckoutPage:56 - Completing the order
+2026-10-24 19:39:34 INFO  Base:93 - Clicking element: [[ChromeDriver: chrome on windows (63dd81474b0d27770b96a659571add38)] -> id: finish]
+2026-10-24 19:40:08 INFO  Base:24 - Loading configuration from config.properties
+2026-10-24 19:40:08 INFO  Base:30 - Configuration loaded successfully
+2026-10-24 19:40:08 INFO  Base:39 - Initializing browser: chrome
+2026-10-24 19:40:10 INFO  Base:57 - ChromeDriver created successfully
+2026-10-24 19:40:11 INFO  Base:71 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:40:11 INFO  login:35 - Attempting login with configured user credentials
+2026-10-24 19:40:11 INFO  login:43 - Login button clicked successfully
+2026-10-24 19:40:12 INFO  Base:24 - Loading configuration from config.properties
+2026-10-24 19:40:12 INFO  Base:30 - Configuration loaded successfully
+2026-10-24 19:40:12 INFO  Base:39 - Initializing browser: chrome
+2026-10-24 19:40:12 INFO  Base:57 - ChromeDriver created successfully
+2026-10-24 19:40:13 INFO  Base:71 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:40:13 INFO  login:35 - Attempting login with configured user credentials
+2026-10-24 19:40:14 INFO  login:43 - Login button clicked successfully
+2026-10-24 19:40:14 INFO  Product:49 - Fetching all products and their prices from inventory page
+2026-10-24 19:40:14 INFO  Product:62 - Product found: Sauce Labs Backpack - $29.99
+2026-10-24 19:40:14 INFO  Product:62 - Product found: Sauce Labs Bike Light - $9.99
+2026-10-24 19:40:14 INFO  Product:62 - Product found: Sauce Labs Bolt T-Shirt - $15.99
+2026-10-24 19:40:14 INFO  Product:62 - Product found: Sauce Labs Fleece Jacket - $49.99
+2026-10-24 19:40:14 INFO  Product:62 - Product found: Sauce Labs Onesie - $7.99
+2026-10-24 19:40:14 INFO  Product:62 - Product found: Test.allTheThings() T-Shirt (Red) - $15.99
+2026-10-24 19:40:14 INFO  Base:61 - Highest priced product: Sauce Labs Fleece Jacket - $49.99
+2026-10-24 19:40:14 INFO  Base:62 - Lowest priced product: Sauce Labs Onesie - $7.99
+2026-10-24 19:40:14 INFO  Product:69 - Selecting highest price product
+2026-10-24 19:40:14 INFO  Product:91 - Finding product with highest price
+2026-10-24 19:40:15 INFO  Product:100 - Selected product: Sauce Labs Fleece Jacket
+2026-10-24 19:40:15 INFO  Product:81 - Adding selected product to cart. Cart count before: 0
+2026-10-24 19:40:15 INFO  Base:93 - Clicking element: [[[[ChromeDriver: chrome on windows (b968305a385f55ecc1a5d590756b2ff8)] -> css selector: .inventory_item]] -> css selector: button[data-test^='add-to-cart']]
+2026-10-24 19:40:15 INFO  Base:83 - Current cart count: 1
+2026-10-24 19:40:15 INFO  Base:83 - Current cart count: 1
+2026-10-24 19:40:15 INFO  Product:87 - Product added to cart successfully. Cart count after: 1
+2026-10-24 19:40:15 INFO  Product:74 - Selecting lowest price product
+2026-10-24 19:40:15 INFO  Product:91 - Finding product with lowest price
+2026-10-24 19:40:16 INFO  Product:100 - Selected product: Sauce Labs Onesie
+2026-10-24 19:40:16 INFO  Base:83 - Current cart count: 1
+2026-10-24 19:40:16 INFO  Product:81 - Adding selected product to cart. Cart count before: 1
+2026-10-24 19:40:16 INFO  Base:93 - Clicking element: [[[[ChromeDriver: chrome on windows (b968305a385f55ecc1a5d590756b2ff8)] -> css selector: .inventory_item]] -> css selector: button[data-test^='add-to-cart']]
+2026-10-24 19:40:16 INFO  Base:83 - Current cart count: 2
+2026-10-24 19:40:16 INFO  Base:83 - Current cart count: 2
+2026-10-24 19:40:16 INFO  Product:87 - Product added to cart successfully. Cart count after: 2
+2026-10-24 19:40:16 INFO  Product:106 - Cart badge text: 2
+2026-10-24 19:40:16 INFO  CartPage:32 - Opening cart page
+2026-10-24 19:40:16 INFO  Base:93 - Clicking element: [[ChromeDriver: chrome on windows (b968305a385f55ecc1a5d590756b2ff8)] -> css selector: .shopping_cart_link]
+2026-10-24 19:40:16 INFO  CartPage:39 - Checking cart item count
+2026-10-24 19:40:16 INFO  CartPage:49 - Cart item total derived from cart items: $57.980000000000004
+2026-10-24 19:40:16 INFO  CartPage:54 - Clicking checkout from cart
+2026-10-24 19:40:16 INFO  Base:93 - Clicking element: [[ChromeDriver: chrome on windows (b968305a385f55ecc1a5d590756b2ff8)] -> id: checkout]
+2026-10-24 19:40:16 INFO  CheckoutPage:40 - Entering checkout customer information
+2026-10-24 19:40:17 INFO  Base:93 - Clicking element: [[ChromeDriver: chrome on windows (b968305a385f55ecc1a5d590756b2ff8)] -> id: continue]
+2026-10-24 19:40:17 INFO  CheckoutPage:56 - Completing the order
+2026-10-24 19:40:17 INFO  Base:93 - Clicking element: [[ChromeDriver: chrome on windows (b968305a385f55ecc1a5d590756b2ff8)] -> id: finish]
+2026-10-24 19:43:38 INFO  Base:47 - Loading configuration from config.properties
+2026-10-24 19:43:38 INFO  Base:53 - Configuration loaded successfully
+2026-10-24 19:43:38 INFO  Base:62 - Initializing browser: chrome
+2026-10-24 19:43:40 INFO  Base:80 - ChromeDriver created successfully
+2026-10-24 19:43:41 INFO  Base:94 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:43:41 INFO  login:35 - Attempting login with configured user credentials
+2026-10-24 19:43:41 INFO  login:43 - Login button clicked successfully
+2026-10-24 19:43:42 INFO  Base:37 - Screenshot captured: E:\Game\saucedemo-selenium\target\screenshots\LoginTest_validateLogin_PASS.png
+2026-10-24 19:43:42 INFO  Base:47 - Loading configuration from config.properties
+2026-10-24 19:43:42 INFO  Base:53 - Configuration loaded successfully
+2026-10-24 19:43:42 INFO  Base:62 - Initializing browser: chrome
+2026-10-24 19:43:43 INFO  Base:80 - ChromeDriver created successfully
+2026-10-24 19:43:44 INFO  Base:94 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:43:44 INFO  login:35 - Attempting login with configured user credentials
+2026-10-24 19:43:44 INFO  login:43 - Login button clicked successfully
+2026-10-24 19:43:44 INFO  Product:49 - Fetching all products and their prices from inventory page
+2026-10-24 19:43:45 INFO  Product:62 - Product found: Sauce Labs Backpack - $29.99
+2026-10-24 19:43:45 INFO  Product:62 - Product found: Sauce Labs Bike Light - $9.99
+2026-10-24 19:43:45 INFO  Product:62 - Product found: Sauce Labs Bolt T-Shirt - $15.99
+2026-10-24 19:43:45 INFO  Product:62 - Product found: Sauce Labs Fleece Jacket - $49.99
+2026-10-24 19:43:45 INFO  Product:62 - Product found: Sauce Labs Onesie - $7.99
+2026-10-24 19:43:45 INFO  Product:62 - Product found: Test.allTheThings() T-Shirt (Red) - $15.99
+2026-10-24 19:43:45 INFO  Base:68 - Highest priced product: Sauce Labs Fleece Jacket - $49.99
+2026-10-24 19:43:45 INFO  Base:69 - Lowest priced product: Sauce Labs Onesie - $7.99
+2026-10-24 19:43:45 INFO  Product:69 - Selecting highest price product
+2026-10-24 19:43:45 INFO  Product:91 - Finding product with highest price
+2026-10-24 19:43:45 INFO  Product:100 - Selected product: Sauce Labs Fleece Jacket
+2026-10-24 19:43:46 INFO  Product:81 - Adding selected product to cart. Cart count before: 0
+2026-10-24 19:43:46 INFO  Base:116 - Clicking element: [[[[ChromeDriver: chrome on windows (6c5cec400ae7ccbd32b40750bb8896e8)] -> css selector: .inventory_item]] -> css selector: button[data-test^='add-to-cart']]
+2026-10-24 19:43:46 INFO  Base:106 - Current cart count: 1
+2026-10-24 19:43:46 INFO  Base:106 - Current cart count: 1
+2026-10-24 19:43:46 INFO  Product:87 - Product added to cart successfully. Cart count after: 1
+2026-10-24 19:43:46 INFO  Product:74 - Selecting lowest price product
+2026-10-24 19:43:46 INFO  Product:91 - Finding product with lowest price
+2026-10-24 19:43:46 INFO  Product:100 - Selected product: Sauce Labs Onesie
+2026-10-24 19:43:46 INFO  Base:106 - Current cart count: 1
+2026-10-24 19:43:46 INFO  Product:81 - Adding selected product to cart. Cart count before: 1
+2026-10-24 19:43:46 INFO  Base:116 - Clicking element: [[[[ChromeDriver: chrome on windows (6c5cec400ae7ccbd32b40750bb8896e8)] -> css selector: .inventory_item]] -> css selector: button[data-test^='add-to-cart']]
+2026-10-24 19:43:46 INFO  Base:106 - Current cart count: 2
+2026-10-24 19:43:46 INFO  Base:106 - Current cart count: 2
+2026-10-24 19:43:46 INFO  Product:87 - Product added to cart successfully. Cart count after: 2
+2026-10-24 19:43:46 INFO  Product:106 - Cart badge text: 2
+2026-10-24 19:43:46 INFO  CartPage:32 - Opening cart page
+2026-10-24 19:43:46 INFO  Base:116 - Clicking element: [[ChromeDriver: chrome on windows (6c5cec400ae7ccbd32b40750bb8896e8)] -> css selector: .shopping_cart_link]
+2026-10-24 19:43:47 INFO  CartPage:39 - Checking cart item count
+2026-10-24 19:43:47 INFO  CartPage:49 - Cart item total derived from cart items: $57.980000000000004
+2026-10-24 19:43:47 INFO  CartPage:54 - Clicking checkout from cart
+2026-10-24 19:43:47 INFO  Base:116 - Clicking element: [[ChromeDriver: chrome on windows (6c5cec400ae7ccbd32b40750bb8896e8)] -> id: checkout]
+2026-10-24 19:43:47 INFO  CheckoutPage:40 - Entering checkout customer information
+2026-10-24 19:43:47 INFO  Base:116 - Clicking element: [[ChromeDriver: chrome on windows (6c5cec400ae7ccbd32b40750bb8896e8)] -> id: continue]
+2026-10-24 19:43:47 INFO  CheckoutPage:56 - Completing the order
+2026-10-24 19:43:47 INFO  Base:116 - Clicking element: [[ChromeDriver: chrome on windows (6c5cec400ae7ccbd32b40750bb8896e8)] -> id: finish]
+2026-10-24 19:43:48 INFO  Base:37 - Screenshot captured: E:\Game\saucedemo-selenium\target\screenshots\ECommerceOrderValidationTest_validatePurchaseOfHighestAndLowestPriceProducts_PASS.png
+2026-10-24 19:44:27 INFO  Base:47 - Loading configuration from config.properties
+2026-10-24 19:44:27 INFO  Base:53 - Configuration loaded successfully
+2026-10-24 19:44:27 INFO  Base:62 - Initializing browser: chrome
+2026-10-24 19:44:29 INFO  Base:80 - ChromeDriver created successfully
+2026-10-24 19:44:30 INFO  Base:94 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:44:30 INFO  login:35 - Attempting login with configured user credentials
+2026-10-24 19:44:30 INFO  login:43 - Login button clicked successfully
+2026-10-24 19:44:31 INFO  Base:37 - Screenshot captured: E:\Game\saucedemo-selenium\target\screenshots\LoginTest_validateLogin_PASS.png
+2026-10-24 19:44:31 INFO  Base:47 - Loading configuration from config.properties
+2026-10-24 19:44:31 INFO  Base:53 - Configuration loaded successfully
+2026-10-24 19:44:31 INFO  Base:62 - Initializing browser: chrome
+2026-10-24 19:44:32 INFO  Base:80 - ChromeDriver created successfully
+2026-10-24 19:44:32 INFO  Base:94 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:44:32 INFO  login:35 - Attempting login with configured user credentials
+2026-10-24 19:44:33 INFO  login:43 - Login button clicked successfully
+2026-10-24 19:44:33 INFO  Product:49 - Fetching all products and their prices from inventory page
+2026-10-24 19:44:33 INFO  Product:62 - Product found: Sauce Labs Backpack - $29.99
+2026-10-24 19:44:33 INFO  Product:62 - Product found: Sauce Labs Bike Light - $9.99
+2026-10-24 19:44:33 INFO  Product:62 - Product found: Sauce Labs Bolt T-Shirt - $15.99
+2026-10-24 19:44:33 INFO  Product:62 - Product found: Sauce Labs Fleece Jacket - $49.99
+2026-10-24 19:44:34 INFO  Product:62 - Product found: Sauce Labs Onesie - $7.99
+2026-10-24 19:44:34 INFO  Product:62 - Product found: Test.allTheThings() T-Shirt (Red) - $15.99
+2026-10-24 19:44:34 INFO  Base:68 - Highest priced product: Sauce Labs Fleece Jacket - $49.99
+2026-10-24 19:44:34 INFO  Base:69 - Lowest priced product: Sauce Labs Onesie - $7.99
+2026-10-24 19:44:34 INFO  Product:69 - Selecting highest price product
+2026-10-24 19:44:34 INFO  Product:91 - Finding product with highest price
+2026-10-24 19:44:34 INFO  Product:100 - Selected product: Sauce Labs Fleece Jacket
+2026-10-24 19:44:34 INFO  Product:81 - Adding selected product to cart. Cart count before: 0
+2026-10-24 19:44:34 INFO  Base:116 - Clicking element: [[[[ChromeDriver: chrome on windows (4682e2fef8fc19b28b59727564b7405a)] -> css selector: .inventory_item]] -> css selector: button[data-test^='add-to-cart']]
+2026-10-24 19:44:34 INFO  Base:106 - Current cart count: 1
+2026-10-24 19:44:34 INFO  Base:106 - Current cart count: 1
+2026-10-24 19:44:34 INFO  Product:87 - Product added to cart successfully. Cart count after: 1
+2026-10-24 19:44:34 INFO  Product:74 - Selecting lowest price product
+2026-10-24 19:44:34 INFO  Product:91 - Finding product with lowest price
+2026-10-24 19:44:35 INFO  Product:100 - Selected product: Sauce Labs Onesie
+2026-10-24 19:44:35 INFO  Base:106 - Current cart count: 1
+2026-10-24 19:44:35 INFO  Product:81 - Adding selected product to cart. Cart count before: 1
+2026-10-24 19:44:35 INFO  Base:116 - Clicking element: [[[[ChromeDriver: chrome on windows (4682e2fef8fc19b28b59727564b7405a)] -> css selector: .inventory_item]] -> css selector: button[data-test^='add-to-cart']]
+2026-10-24 19:44:35 INFO  Base:106 - Current cart count: 2
+2026-10-24 19:44:35 INFO  Base:106 - Current cart count: 2
+2026-10-24 19:44:35 INFO  Product:87 - Product added to cart successfully. Cart count after: 2
+2026-10-24 19:44:35 INFO  Product:106 - Cart badge text: 2
+2026-10-24 19:44:35 INFO  CartPage:32 - Opening cart page
+2026-10-24 19:44:35 INFO  Base:116 - Clicking element: [[ChromeDriver: chrome on windows (4682e2fef8fc19b28b59727564b7405a)] -> css selector: .shopping_cart_link]
+2026-10-24 19:44:35 INFO  CartPage:39 - Checking cart item count
+2026-10-24 19:44:35 INFO  CartPage:49 - Cart item total derived from cart items: $57.980000000000004
+2026-10-24 19:44:35 INFO  CartPage:54 - Clicking checkout from cart
+2026-10-24 19:44:35 INFO  Base:116 - Clicking element: [[ChromeDriver: chrome on windows (4682e2fef8fc19b28b59727564b7405a)] -> id: checkout]
+2026-10-24 19:44:35 INFO  CheckoutPage:40 - Entering checkout customer information
+2026-10-24 19:44:36 INFO  Base:116 - Clicking element: [[ChromeDriver: chrome on windows (4682e2fef8fc19b28b59727564b7405a)] -> id: continue]
+2026-10-24 19:44:36 INFO  CheckoutPage:56 - Completing the order
+2026-10-24 19:44:36 INFO  Base:116 - Clicking element: [[ChromeDriver: chrome on windows (4682e2fef8fc19b28b59727564b7405a)] -> id: finish]
+2026-10-24 19:44:37 INFO  Base:37 - Screenshot captured: E:\Game\saucedemo-selenium\target\screenshots\ECommerceOrderValidationTest_validatePurchaseOfHighestAndLowestPriceProducts_PASS.png
+2026-10-24 19:46:38 INFO  Base:47 - Loading configuration from config.properties
+2026-10-24 19:46:38 INFO  Base:53 - Configuration loaded successfully
+2026-10-24 19:46:38 INFO  Base:62 - Initializing browser: chrome
+2026-10-24 19:46:39 INFO  Base:80 - ChromeDriver created successfully
+2026-10-24 19:46:41 INFO  Base:94 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:46:41 INFO  login:35 - Attempting login with configured user credentials
+2026-10-24 19:46:42 INFO  login:43 - Login button clicked successfully
+2026-10-24 19:46:42 INFO  Base:37 - Screenshot captured: E:\Game\saucedemo-selenium\target\screenshots\LoginTest_validateLogin_PASS.png
+2026-10-24 19:46:42 INFO  Base:47 - Loading configuration from config.properties
+2026-10-24 19:46:42 INFO  Base:53 - Configuration loaded successfully
+2026-10-24 19:46:42 INFO  Base:62 - Initializing browser: chrome
+2026-10-24 19:46:43 INFO  Base:80 - ChromeDriver created successfully
+2026-10-24 19:46:44 INFO  Base:94 - Navigated to URL: https://www.saucedemo.com/
+2026-10-24 19:46:44 INFO  login:35 - Attempting login with configured user credentials
+2026-10-24 19:46:44 INFO  login:43 - Login button clicked successfully
+2026-10-24 19:46:44 INFO  Product:49 - Fetching all products and their prices from inventory page
+2026-10-24 19:46:45 INFO  Product:62 - Product found: Sauce Labs Backpack - $29.99
+2026-10-24 19:46:45 INFO  Product:62 - Product found: Sauce Labs Bike Light - $9.99
+2026-10-24 19:46:45 INFO  Product:62 - Product found: Sauce Labs Bolt T-Shirt - $15.99
+2026-10-24 19:46:45 INFO  Product:62 - Product found: Sauce Labs Fleece Jacket - $49.99
+2026-10-24 19:46:45 INFO  Product:62 - Product found: Sauce Labs Onesie - $7.99
+2026-10-24 19:46:45 INFO  Product:62 - Product found: Test.allTheThings() T-Shirt (Red) - $15.99
+2026-10-24 19:46:45 INFO  Base:68 - Highest priced product: Sauce Labs Fleece Jacket - $49.99
+2026-10-24 19:46:45 INFO  Base:69 - Lowest priced product: Sauce Labs Onesie - $7.99
+2026-10-24 19:46:45 INFO  Product:69 - Selecting highest price product
+2026-10-24 19:46:45 INFO  Product:91 - Finding product with highest price
+2026-10-24 19:46:46 INFO  Product:100 - Selected product: Sauce Labs Fleece Jacket
+2026-10-24 19:46:46 INFO  Product:81 - Adding selected product to cart. Cart count before: 0
+2026-10-24 19:46:46 INFO  Base:116 - Clicking element: [[[[ChromeDriver: chrome on windows (bbd2834095e89330309e3e48eed906a6)] -> css selector: .inventory_item]] -> css selector: button[data-test^='add-to-cart']]
+2026-10-24 19:46:46 INFO  Base:106 - Current cart count: 1
+2026-10-24 19:46:46 INFO  Base:106 - Current cart count: 1
+2026-10-24 19:46:46 INFO  Product:87 - Product added to cart successfully. Cart count after: 1
+2026-10-24 19:46:46 INFO  Base:37 - Screenshot captured: E:\Game\saucedemo-selenium\target\screenshots\ECommerceOrderValidationTest_AddHighestProductToCart.png
+2026-10-24 19:46:46 INFO  Product:74 - Selecting lowest price product
+2026-10-24 19:46:46 INFO  Product:91 - Finding product with lowest price
+2026-10-24 19:46:47 INFO  Product:100 - Selected product: Sauce Labs Onesie
+2026-10-24 19:46:47 INFO  Base:106 - Current cart count: 1
+2026-10-24 19:46:47 INFO  Product:81 - Adding selected product to cart. Cart count before: 1
+2026-10-24 19:46:47 INFO  Base:116 - Clicking element: [[[[ChromeDriver: chrome on windows (bbd2834095e89330309e3e48eed906a6)] -> css selector: .inventory_item]] -> css selector: button[data-test^='add-to-cart']]
+2026-10-24 19:46:47 INFO  Base:106 - Current cart count: 2
+2026-10-24 19:46:47 INFO  Base:106 - Current cart count: 2
+2026-10-24 19:46:47 INFO  Product:87 - Product added to cart successfully. Cart count after: 2
+2026-10-24 19:46:47 INFO  Base:37 - Screenshot captured: E:\Game\saucedemo-selenium\target\screenshots\ECommerceOrderValidationTest_AddLowestProductToCart.png
+2026-10-24 19:46:47 INFO  Product:106 - Cart badge text: 2
+2026-10-24 19:46:47 INFO  CartPage:32 - Opening cart page
+2026-10-24 19:46:47 INFO  Base:116 - Clicking element: [[ChromeDriver: chrome on windows (bbd2834095e89330309e3e48eed906a6)] -> css selector: .shopping_cart_link]
+2026-10-24 19:46:47 INFO  CartPage:39 - Checking cart item count
+2026-10-24 19:46:47 INFO  CartPage:49 - Cart item total derived from cart items: $57.980000000000004
+2026-10-24 19:46:47 INFO  CartPage:54 - Clicking checkout from cart
+2026-10-24 19:46:47 INFO  Base:116 - Clicking element: [[ChromeDriver: chrome on windows (bbd2834095e89330309e3e48eed906a6)] -> id: checkout]
+2026-10-24 19:46:48 INFO  CheckoutPage:40 - Entering checkout customer information
+2026-10-24 19:46:48 INFO  Base:116 - Clicking element: [[ChromeDriver: chrome on windows (bbd2834095e89330309e3e48eed906a6)] -> id: continue]
+2026-10-24 19:46:48 INFO  Base:37 - Screenshot captured: E:\Game\saucedemo-selenium\target\screenshots\ECommerceOrderValidationTest_PaymentDetails.png
+2026-10-24 19:46:48 INFO  CheckoutPage:56 - Completing the order
+2026-10-24 19:46:48 INFO  Base:116 - Clicking element: [[ChromeDriver: chrome on windows (bbd2834095e89330309e3e48eed906a6)] -> id: finish]
+2026-10-24 19:46:49 INFO  Base:37 - Screenshot captured: E:\Game\saucedemo-selenium\target\screenshots\ECommerceOrderValidationTest_validatePurchaseOfHighestAndLowestPriceProducts_PASS.png

@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Map;
 
 import org.testng.Assert;
+import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -27,7 +28,13 @@ public class ECommerceOrderValidationTest extends Base {
     }
 
     @AfterMethod
-    public void tearDown() {
+    public void tearDown(ITestResult result) {
+        if (result.getStatus() == ITestResult.FAILURE) {
+            captureScreenshot("ECommerceOrderValidationTest_" + result.getName() + "_FAIL");
+        } else if (result.getStatus() == ITestResult.SUCCESS) {
+            captureScreenshot("ECommerceOrderValidationTest_" + result.getName() + "_PASS");
+        }
+
         if (driver != null) {
             driver.quit();
             driver = null;
@@ -62,7 +69,9 @@ public class ECommerceOrderValidationTest extends Base {
         logger.info("Lowest priced product: " + lowestProductName + " - $" + lowestPrice);
 
         productPage.addHighestPriceProductToCart();
+        captureScreenshot("ECommerceOrderValidationTest_AddHighestProductToCart");
         productPage.addLowestPriceProductToCart();
+        captureScreenshot("ECommerceOrderValidationTest_AddLowestProductToCart");
 
         String cartValue = productPage.getCartBadgeText();
         Assert.assertEquals(cartValue, "2", "Only 2 products should be in cart");
@@ -76,6 +85,7 @@ public class ECommerceOrderValidationTest extends Base {
 
         cartPage.clickCheckout();
         checkoutPage.enterCheckoutInformation();
+        captureScreenshot("ECommerceOrderValidationTest_PaymentDetails");
         String checkoutUrl = checkoutPage.getOrderConfirmationUrl();
         Assert.assertTrue(checkoutUrl.contains("checkout-step-two.html"), "Checkout overview page was not reached.");
 

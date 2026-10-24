@@ -1,11 +1,19 @@
+import java.io.File;
 import java.io.FileInputStream;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Properties;
 
+import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -18,6 +26,21 @@ public class Base{
     public static WebDriver driver;
     public static Properties prop;
     public static Logger logger = Logger.getLogger(Base.class);
+
+    public static String captureScreenshot(String fileName) {
+        String screenshotDir = System.getProperty("user.dir") + File.separator + "target" + File.separator + "screenshots";
+        try {
+            Files.createDirectories(Paths.get(screenshotDir));
+            File sourceFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+            String filePath = screenshotDir + File.separator + fileName + ".png";
+            FileUtils.copyFile(sourceFile, new File(filePath));
+            logger.info("Screenshot captured: " + filePath);
+            return filePath;
+        } catch (Exception e) {
+            logger.error("Failed to capture screenshot: " + fileName, e);
+            return null;
+        }
+    }
 
     public void beforeSuite() {
         try {
@@ -114,5 +137,29 @@ public class Base{
             logger.warn("Unable to parse currency value: '" + value + "'");
             return 0.0;
         }
+    }
+
+    public static String getConfigValue(String key) {
+        String value = System.getProperty(key);
+        if (value != null && !value.trim().isEmpty()) {
+            return value.trim();
+        }
+
+        if (prop != null) {
+            value = prop.getProperty(key);
+            if (value != null && !value.trim().isEmpty()) {
+                return value.trim();
+            }
+        }
+
+        return "";
+    }
+
+    public static String getRequiredConfigValue(String key) {
+        String value = getConfigValue(key);
+        if (value == null || value.trim().isEmpty()) {
+            throw new IllegalStateException("Missing required configuration: '" + key + "'");
+        }
+        return value.trim();
     }
 }
