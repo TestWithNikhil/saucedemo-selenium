@@ -6,4 +6,10 @@
             <class name="LoginTest"/>
         </classes>
     </test>
+
+    <test name="Order Validation Tests">
+        <classes>
+            <class name="ECommerceOrderValidationTest"/>
+        </classes>
+    </test>
 </suite>
